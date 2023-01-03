@@ -7,10 +7,10 @@ All of this is released to you, and to anyone, under a 'free NOT fee', open sour
       1. I am accredited with the sole authorship and ownership of the versions of this code which I release in this repository.  My email address ( 
          xorxecor@gmail.com ) and name must be included in a legal notice of ownership / authorship. 
       
-      2. No money is exchanged in connection to this software.  One may not commercialize this code, sell it, profit financially by it or from it.     
-         Financial loss caused by the use, distribution, etc. of this software is, however, not only acceptable, but perhaps even desirable and 
-         honorable...   ;-)
-         
+      2. No money is exchanged in connection to the use of my system.  One may not commercialize the data, process, nor use it for financial profit, nor sell it, nor profit in any way by it or from it.  Financial loss caused by the use, distribution, etc. of my system is, however, not only acceptable, but perhaps even desirable and honorable...   ;-)
+  
+  
+  
 Enjoy!
 
 
