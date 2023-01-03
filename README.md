@@ -16,6 +16,7 @@ Enjoy!
 
 
 Frank O'Neill
-xorxecor@gmail.com
-soundcloud.com/d-zum-b
-github.com/froeberger
+
+email: xorxecor@gmail.com
+soundcloud: https://www.soundcloud.com/d-zum-b
+github: https://www.github.com/froeberger
